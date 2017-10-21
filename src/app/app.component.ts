@@ -13,5 +13,6 @@ export class AppComponent {
   num1 = 324234;
   num2 = 234;
   num0 = this.num1+this.num2;
+  colores=['negro','rojo','verde'];
   
 }
